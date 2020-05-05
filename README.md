@@ -3,6 +3,12 @@
 
 ### The easiest to understand would be as follows:
 
+#### The factorial is recursively defined as:
+
+#### n!=n∗(n−1)! 
+
+#### with 1!=1
+
 4! = 4 x 3 x 2 x 1 = 24
 
 3! = 4! / 4 = 6
